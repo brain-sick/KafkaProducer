@@ -1,0 +1,7 @@
+com\aj\dropwizardkafkaproducer\domain\KafkaProducerRequest.class
+com\aj\dropwizardkafkaproducer\resource\KafkaProducerResource.class
+com\aj\dropwizardkafkaproducer\DropwizardKafkaProducerApplication.class
+com\aj\dropwizardkafkaproducer\resource\PingResource.class
+com\aj\dropwizardkafkaproducer\domain\PingRequest.class
+com\aj\dropwizardkafkaproducer\DropwizardKafkaProducerConfiguration.class
+com\aj\dropwizardkafkaproducer\service\KafkaProducerService.class
